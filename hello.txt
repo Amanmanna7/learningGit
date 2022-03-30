@@ -2,3 +2,5 @@ I am Aman Manna
 
 My favourite color is Blue.
 2nd commit
+Some changes are made for 
+git status
