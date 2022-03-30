@@ -5,3 +5,4 @@ My favourite color is Blue.
 
 Changes made for 
 git status
+unmodified -> modified -> staged -> commit
